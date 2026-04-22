@@ -19,7 +19,7 @@ smart-traffic-control/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Step 1 — Backend Server
 
@@ -61,7 +61,7 @@ http://localhost:3000/dashboard.html
 
 ---
 
-## 🔑 Login Credentials (Demo)
+##  Login Credentials (Demo)
 
 Any name + batch number + area works. Data is stored per batch number.
 
@@ -72,7 +72,7 @@ Example:
 
 ---
 
-## 🎯 Features
+##  Features
 
 ### Login Page
 - Officer name, batch number, area name login
@@ -120,7 +120,7 @@ Example:
 
 ---
 
-## 🤖 AI Detection (YOLO)
+##  AI Detection (YOLO)
 
 Uses **YOLOv8 nano** for real-time object detection:
 
@@ -192,7 +192,7 @@ Uses **YOLOv8 nano** for real-time object detection:
 
 ---
 
-## 📊 Tech Stack
+##  Tech Stack
 
 | Layer     | Technology                          |
 |-----------|-------------------------------------|
